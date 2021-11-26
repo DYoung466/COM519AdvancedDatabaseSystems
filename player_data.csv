@@ -86,24 +86,91 @@ Bobby,Streetly,1994,Knights,80,R,England,-,D,A
 Brandon,Whistle,1997,Knights,86,R,England,Canada,F,-
 Adam,Barnes,1999,Knights,88,L,England,-,F,-
 Ben,Solder,2000,Knights,96,L,England,-,D,-
-James,Archer,1988,Lightning,2,R,,,F,-
-Ben,Russell,1994,Lightning,5,R,,,D,-
-Bobby,Chamberlain,1995,Lightning,10,R,,,F,-
-Callum,Field,2004,Lightning,11,R,,,F,-
-Hallden,Barnes-Garner,1998,Lightning,14,R,,,F,-
-James,Griffin,1993,Lightning,15,R,,,D,-
-Liam,Stewart,1994,Lightning,16,L,,,F,-
-Russell,Cowley,1983,Lightning,17,L,,,F/D,C
-Leigh,Jamieson,1985,Lightning,19,R,,,F/D,-
-Ross,Green,1992,Lightning,21,R,,,D,-
-Edward,Knaggs,1998,Lightning,25,L,,,D,-
-Zaine,McKenzie,2003,Lightning,28,R,,,F,-
-Brandon,Stones,1993,Lightning,29,L,,,NM,-
-Matthew,Smítal,1999,Lightning,32,L,,,NM,-
-Milique,Martelly,2004,Lightning,33,L,,,D,-
-Samuel,Russell,2000,Lightning,39,R,,,D,-
-Adam,Laishram,1997,Lightning,48,R,,,F,-
-Lewis,Christie,1989,Lightning,66,R,,,D,-
-Edgars,Landsbergs,1999,Lightning,71,-,,,F,-
-Sean,Norris,1999,Lightning,86,R,,,F,-
-Samuel,Talbot,2001,Lightning,98,R,,,F,-
+James,Archer,1988,Lightning,2,R,England,-,F,-
+Ben,Russell,1994,Lightning,5,R,England,-,D,-
+Bobby,Chamberlain,1995,Lightning,10,R,England,-,F,-
+Callum,Field,2004,Lightning,11,R,England,-,F,-
+Hallden,Barnes-Garner,1998,Lightning,14,R,England,-,F,-
+James,Griffin,1993,Lightning,15,R,England,-,D,-
+Liam,Stewart,1994,Lightning,16,L,England,New Zealand,F,-
+Russell,Cowley,1983,Lightning,17,L,England,-,F/D,C
+Leigh,Jamieson,1985,Lightning,19,R,England,-,F/D,-
+Ross,Green,1992,Lightning,21,R,England,-,D,-
+Edward,Knaggs,1998,Lightning,25,L,England,-,D,-
+Zaine,McKenzie,2003,Lightning,28,R,England,-,F,-
+Brandon,Stones,1993,Lightning,29,L,England,-,NM,-
+Matthew,Smítal,1999,Lightning,32,L,Czech Rep.,-,NM,-
+Milique,Martelly,2004,Lightning,33,L,England,-,D,-
+Samuel,Russell,2000,Lightning,39,R,England,-,D,-
+Adam,Laishram,1997,Lightning,48,R,Canada,Great Britain,F,-
+Lewis,Christie,1989,Lightning,66,R,England,-,D,-
+Edgars,Landsbergs,1999,Lightning,71,-,England,-,F,-
+Sean,Norris,1999,Lightning,86,R,England,Czech Rep.,F,-
+Samuel,Talbot,2001,Lightning,98,R,England,-,F,-
+Conor,Pollard,1993,Phantoms,,R,England,-,F,-
+Thomas,Norton,1990,Phantoms,2,R,England,-,D,-
+Scott,Robson,1995,Phantoms,11,R,England,-,D,-
+Nathan,Pollard,1993,Phantoms,12,L,England,-,F,-
+Morgan,Clarke-Pizzo,1999,Phantoms,13,L,England,-,F,-
+Luc,Johnson,1997,Phantoms,21,L,England,-,F,-
+Bradley,Bowering,2002,Phantoms,23,L,England,-,D,-
+Billy,Thorpe,2005,Phantoms,25,R,England,-,D,-
+William,Weldon,1993,Phantoms,29,R,England,-,F,C
+Jordan,Marr,1991,Phantoms,33,L,Scotland,-,NM,-
+Joseph,Gretton,1997,Phantoms,35,L,England,-,F/D,-
+Duncan,Speirs,1997,Phantoms,38,L,Scotland,-,F/D,-
+Ryan,Bainborough,1992,Phantoms,44,R,England,-,NM,-
+Callum,Buglass,1996,Phantoms,45,L,Wales,-,D,A
+Corey,McEwen,1992,Phantoms,71,L,Great Britain,Canada,F,-
+Glenn,Billing,1997,Phantoms,72,L,England,-,F,A
+Ross,Clarke,2002,Phantoms,75,R,England,-,F,-
+Thomas,Barry,1997,Phantoms,90,R,England,-,D,-
+Nathan,Salem,1991,Phantoms,91,L,England,-,F,-
+Ales,Padelek,1980,Phantoms,93,L,Czech Rep.,-,F,-
+Jasper,Foster,2003,Phantoms,95,R,England,-,F,-
+Jarvis,Hunt,2002,Phantoms,96,R,England,-,F,-
+Nathan,Long,1997,Phantoms,97,R,England,-,D,-
+Lewis,Bell,1991,Steeldogs,4,R,England,-,D,C
+Brady,Doxey,2000,Steeldogs,5,R,England,-,F,-
+Ben,Morgan,1987,Steeldogs,6,R,England,-,D,-
+Ryan,Johnson,1983,Steeldogs,10,R,England,-,F/D,-
+James,Spurr,1989,Steeldogs,14,L,England,-,F,-
+Samuel,Towner,1995,Steeldogs,16,R,England,-,F,-
+Jason,Hewitt,1983,Steeldogs,17,R,England,-,F,A
+Louie,Newell,2003,Steeldogs,18,-,England,-,F,-
+Thomas,Palmer,2002,Steeldogs,20,L,England,-,F,-
+Alex,Graham,2003,Steeldogs,21,R,England,-,F,-
+Nathan,Ripley,2002,Steeldogs,29,L,England,-,F,-
+Dmitri,Zimozdra,1988,Steeldogs,34,L,Great Britain,Russia,NM,-
+Henry,Adams,2002,Steeldogs,36,L,England,-,D,-
+Miles,Finney,1993,Steeldogs,39,L,England,-,NM,-
+Tim,Smith,1988,Steeldogs,42,L,England,-,D,-
+Michael,Danecko,2004,Steeldogs,50,-,Czech Rep.,-,F,-
+Lee,Haywood,1988,Steeldogs,56,L,England,-,D,-
+Matt,Bissonnette,1992,Steeldogs,73,L,Canada,Great Britain,F,-
+Lee,Bonner,1997,Steeldogs,74,L,England,-,F,-
+Charlie,Thompson,1996,Steeldogs,81,R,England,-,F,-
+Jonathan,Kirk,1995,Steeldogs,90,L,England,-,D,-
+Bálint,Pákozdi?,1999,Wildcats,3,L,Hungary,GBR,F,-
+Jack,Goodchild,2002,Wildcats,4,R,England,-,F,-
+Bailey,Perre,2004,Wildcats,5,R,England,-,D,-
+Chris,Jones,1991,Wildcats,11,R,Wales,-,F,-
+Floyd,Taylor,1995,Wildcats,12,L,England,-,F,-
+Sam,Bullas,1990,Wildcats,13,R,England,-,F,C
+Reed,Sayers,2001,Wildcats,18,R,England,-,F,-
+Aaron,Nell,1989,Wildcats,19,L,England,-,F,-
+Cain,Russell,2004,Wildcats,22,R,England,-,F,-
+Tyler,Plews,1997,Wildcats,24,R,Scotland,-,D,-
+Stephen,Whitfield,1990,Wildcats,28,R,England,-,D,A
+Renny,Marr,1997,Wildcats,30,L,Scotland,-,NM,-
+Michael,Crisp,1991,Wildcats,33,L,Wales,-,NM,-
+Bailey,Hind-Pitcher,2003,Wildcats,34,R,England,-,F,-
+Emil,Svec,1994,Wildcats,38,L,Czech Rep.,-,F,-
+Oliver,Endicott,2004,Wildcats,41,L,England,-,F,-
+Neil,Liddiard,1978,Wildcats,44,R,England,-,D,A
+Dean,Skinns,1984,Wildcats,45,L,England,-,NM,-
+Samuel,Godfrey,1994,Wildcats,61,R,England,-,D,-
+Edgars,Bebris,1991,Wildcats,71,L,Latvia,-,F,-
+Sam,Smith,2001,Wildcats,73,R,Wales,-,D,-
+Ben,Nethersell,1998,Wildcats,77,R,England,-,D,-
+Tomasz,Malasinski,1986,Wildcats,89,L,Poland,-,F,-
